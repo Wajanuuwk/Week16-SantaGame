@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\obj\Debug\netcoreapp3.1\SantaClauseIsComingToTown.Form1.resources
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\obj\Debug\netcoreapp3.1\SantaClauseIsComingToTown.Properties.Resources.resources
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\obj\Debug\netcoreapp3.1\SantaClauseIsComingToTown.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\obj\Debug\netcoreapp3.1\SantaClauseIsComingToTown.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\obj\Debug\netcoreapp3.1\SantaClauseIsComingToTown.AssemblyInfo.cs
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\obj\Debug\netcoreapp3.1\SantaClauseIsComingToTown.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\bin\Debug\netcoreapp3.1\SantaClauseIsComingToTown.exe
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\bin\Debug\netcoreapp3.1\SantaClauseIsComingToTown.deps.json
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\bin\Debug\netcoreapp3.1\SantaClauseIsComingToTown.runtimeconfig.json
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\bin\Debug\netcoreapp3.1\SantaClauseIsComingToTown.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\bin\Debug\netcoreapp3.1\SantaClauseIsComingToTown.dll
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\bin\Debug\netcoreapp3.1\SantaClauseIsComingToTown.pdb
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\obj\Debug\netcoreapp3.1\SantaClauseIsComingToTown.dll
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\obj\Debug\netcoreapp3.1\SantaClauseIsComingToTown.pdb
+C:\Users\opilane\source\repos\SantaClauseIsComingToTown\SantaClauseIsComingToTown\obj\Debug\netcoreapp3.1\SantaClauseIsComingToTown.genruntimeconfig.cache
